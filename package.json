@@ -1,0 +1,24 @@
+{
+  "name": "JS-testing-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "  jasmine jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8977shiva/JS-testing-jasmine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8977shiva/JS-testing-jasmine/issues"
+  },
+  "homepage": "https://github.com/8977shiva/JS-testing-jasmine#readme",
+  "dependencies": {
+    "jasmine": "^3.6.1",
+    "jasmine-console-reporter": "^3.1.0"
+  }
+}
